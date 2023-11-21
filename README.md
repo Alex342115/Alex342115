@@ -40,7 +40,6 @@ class About extends Me {
     
 <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex342115&theme=github_dark"/>
   
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex342115&theme=github_dark"/>
 
 </a>
 
