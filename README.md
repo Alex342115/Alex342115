@@ -60,10 +60,10 @@ class About extends Me {
   
 
   
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mananbansal2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-bansal-713523202) 
-<a href="https://www.codechef.com/users/manan1806" target="blank"><img align="center" src="https://www.codechef.com/misc/fb-image-icon.png" alt="manan1806" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/manan.bansal.1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manan.bansal.1806" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1806manan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-nigam-4b39a0224/) 
+<a href="https://www.codechef.com/users/ankur3421" target="blank"><img align="center" src="https://www.codechef.com/misc/fb-image-icon.png" alt="manan1806" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Avos3421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manan.bansal.1806" height="30" width="40" /></a>
+<a href="https://leetcode.com/Samael3421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="30" width="40" /></a>
 
 
 
