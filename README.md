@@ -34,13 +34,13 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/mananbansal2002">
 
-   <img width= "30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mananbansal2002&theme=github_dark"/>
+   <img width= "30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex342115&theme=github_dark"/>
 
 
     
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mananbansal2002&theme=github_dark"/>
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex342115&theme=github_dark"/>
   
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mananbansal2002&theme=github_dark"/>
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex342115&theme=github_dark"/>
 
 </a>
 
@@ -49,7 +49,7 @@ class About extends Me {
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mananbansal2002&theme=github_dark" >
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex342115&theme=github_dark" >
 
 </details>
 
