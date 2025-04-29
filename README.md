@@ -2,7 +2,7 @@
  <br>
 <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mananbansal2002" alt="CoDiNg RocKs"  width="60%"/><br> 
   <br>
-<p>    <strong>Final year B.Tech student. <br>
+<p>    <strong> M.Tech student at DTU. <br>
   Competitive Programmer :- <i>Newbie Codeforces </i> <br>
   Front End Developer
 
